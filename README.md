@@ -1,0 +1,2 @@
+# autoclick
+Basic-AutoClick
