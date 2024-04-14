@@ -1,0 +1,7 @@
+C:\Users\batin\source\repos\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
+C:\Users\batin\source\repos\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+C:\Users\batin\source\repos\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+C:\Users\batin\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.AssemblyReference.cache
+C:\Users\batin\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+C:\Users\batin\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+C:\Users\batin\source\repos\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
